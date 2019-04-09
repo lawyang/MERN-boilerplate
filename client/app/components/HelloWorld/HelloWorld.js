@@ -1,7 +1,7 @@
 import React from 'react';
 
 const HelloWorld = () => (
-  <p>Hello World</p>
+  <p>Hello World LAW YANG</p>
 );
 
 export default HelloWorld;
